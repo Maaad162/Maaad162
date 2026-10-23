@@ -38,7 +38,7 @@ Gosto da ideia de que um bom software deve tornar o trabalho mais claro, não ma
 
 Meus projetos exploram justamente isso: transformar informações, etapas e processos em ferramentas que possam ser utilizadas no dia a dia.
 
-Tenho desenvolvido aplicações web voltadas à **organização de atividades, acompanhamento operacional e visualização de informações**, especialmente no contexto da construção civil.
+Tenho desenvolvido aplicações web voltadas à **organização de atividades, acompanhamento operacional e visualização de informações**, atualmente no contexto da construção civil.
 
 Atualmente, meus repositórios incluem projetos com React, TypeScript, Firebase e JavaScript.
 

@@ -218,10 +218,8 @@ Os indicadores abaixo são gerados a partir dos dados disponíveis no GitHub e p
 Uma visualização animada do histórico de contribuições.
 
 <!--
-IMPORTANTE:
-O Snake requer um GitHub Actions workflow.
-As instruções de ativação estão no comentário ao final deste README.
-A imagem será exibida após a primeira execução bem-sucedida.
+O workflow .github/workflows/snake.yml gera diariamente o Snake e os
+cards dos tópicos 05 e 06 e publica os SVGs na branch output.
 -->
 
 <div align="center">
@@ -285,82 +283,23 @@ Projetos, experimentos e soluções em desenvolvimento.
 </div>
 
 <!--
-============================================================
-CONFIGURAÇÃO DA ANIMAÇÃO SNAKE
-============================================================
+ATUALIZAÇÃO DAS IMAGENS DO PERFIL
 
-Esta etapa é necessária apenas uma vez.
+Workflow: .github/workflows/snake.yml
+Gerador dos cards: scripts/update-profile-cards.py
 
-1. Crie o repositório público:
-   https://github.com/Maaad162/Maaad162
+O workflow executa diariamente às 03:15 UTC e também pode ser iniciado
+em Actions > Snake Contributions > Run workflow.
 
-2. Dentro desse repositório, crie o arquivo:
-   .github/workflows/snake.yml
+As imagens dos tópicos 05, 06 e 07 ficam na branch output:
+- activity-royal-blue.svg
+- contribution-milestones.svg
+- snake-royal-blue.svg
 
-3. Cole APENAS o conteúdo YAML abaixo no arquivo snake.yml.
-   Não copie estas instruções nem as marcas de comentário.
+Os tópicos 05 e 06 usam dados públicos do calendário de contribuições do
+GitHub. O período dos marcos aparece no card; o gráfico mostra 31 dias.
+Esses cards são gerados no próprio workflow, sem serviços externos de cards.
 
------------------ INÍCIO DO YAML -----------------
-
-name: Snake Contributions
-
-on:
-  schedule:
-    - cron: "15 3 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Gerar Snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Maaad162
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#4169E1&color_dots=#0D1117,#17213B,#243B7A,#3454B4,#4169E1
-
-      - name: Publicar SVG
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
------------------- FIM DO YAML ------------------
-
-4. Faça commit do snake.yml na branch padrão.
-
-5. Acesse a aba Actions do repositório.
-
-6. Selecione Snake Contributions.
-
-7. Clique em Run workflow.
-
-8. Verifique se a execução terminou corretamente e criou
-   a branch output com o arquivo SVG.
-
-9. Depois disso, a animação poderá aparecer neste README.
-
-Caso a publicação falhe por permissões:
-Settings > Actions > General > Workflow permissions.
-Verifique se a política da conta permite escrita do GITHUB_TOKEN.
-
-DOCUMENTAÇÃO:
-https://github.com/Platane/snk
-
-OBSERVAÇÕES:
-- Os cards de estatísticas usam serviços públicos de terceiros
-  e podem apresentar falhas temporárias ou limites de acesso.
-- As linguagens exibidas são calculadas a partir de repositórios;
-  não representam necessariamente o nível de domínio técnico.
-- Os links de LinkedIn e Instagram foram deixados desativados
-  porque seus endereços verdadeiros não foram informados.
-- A paleta grafite e azul royal usa a cor #4169E1 solicitada.
-============================================================
+A paleta usa #4169E1. Os demais cards de estatísticas ainda usam serviços
+públicos de terceiros, sujeitos a indisponibilidade e limites de acesso.
 -->

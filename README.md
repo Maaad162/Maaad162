@@ -2,7 +2,7 @@
 <!--
   PERFIL GITHUB
   Amadeu Neto | @Maaad162
-  Identidade visual: grafite, preto e rosa
+  Identidade visual: grafite, preto e azul royal
 -->
 
 <div align="center">
@@ -10,23 +10,23 @@
 <img
   width="100%"
   alt="Amadeu Neto — Desenvolvimento Web"
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:10121C,55:241629,100:862E5C&height=210&section=header&text=AMADEU%20NETO&fontSize=54&fontColor=FFFFFF&fontAlignY=43&desc=Desenvolvimento%20web%20%7C%20Tecnologia%20aplicada%20a%20processos&descAlignY=65&descSize=15&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:10121C,55:18213A,100:4169E1&height=210&section=header&text=AMADEU%20NETO&fontSize=54&fontColor=FFFFFF&fontAlignY=43&desc=Desenvolvimento%20web%20%7C%20Tecnologia%20aplicada%20a%20processos&descAlignY=65&descSize=15&animation=fadeIn"
 />
 
 <br/>
 
 <a href="https://github.com/Maaad162">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=F06A9C&center=true&vCenter=true&width=650&height=50&lines=Desenvolvimento+web;Automacao+e+organizacao+de+processos;Ideias+que+viram+ferramentas;Do+codigo+ao+uso+real"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=4169E1&center=true&vCenter=true&width=650&height=50&lines=Desenvolvimento+web;Automacao+e+organizacao+de+processos;Ideias+que+viram+ferramentas;Do+codigo+ao+uso+real"
     alt="Apresentação animada"
   />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Maaad162&color=F06A9C&style=flat-square&label=VISITAS" alt="Visitas ao perfil"/>
+<img src="https://komarev.com/ghpvc/?username=Maaad162&color=4169E1&style=flat-square&label=VISITAS" alt="Visitas ao perfil"/>
 
-<img src="https://img.shields.io/github/followers/Maaad162?style=flat-square&color=F06A9C&label=SEGUIDORES&labelColor=15151D" alt="Seguidores"/>
+<img src="https://img.shields.io/github/followers/Maaad162?style=flat-square&color=4169E1&label=SEGUIDORES&labelColor=15151D" alt="Seguidores"/>
 
 </div>
 
@@ -77,9 +77,9 @@ Atualmente, meus repositórios incluem projetos com React, TypeScript, Firebase 
 
 <br/>
 
-<img src="https://img.shields.io/badge/ESLint-15151D?style=flat-square&logo=eslint&logoColor=F06A9C" alt="ESLint"/>
-<img src="https://img.shields.io/badge/Playwright-15151D?style=flat-square&logo=playwright&logoColor=F06A9C" alt="Playwright"/>
-<img src="https://img.shields.io/badge/Cloud_Firestore-15151D?style=flat-square&logo=firebase&logoColor=F06A9C" alt="Cloud Firestore"/>
+<img src="https://img.shields.io/badge/ESLint-15151D?style=flat-square&logo=eslint&logoColor=4169E1" alt="ESLint"/>
+<img src="https://img.shields.io/badge/Playwright-15151D?style=flat-square&logo=playwright&logoColor=4169E1" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Cloud_Firestore-15151D?style=flat-square&logo=firebase&logoColor=4169E1" alt="Cloud Firestore"/>
 
 </div>
 
@@ -96,7 +96,7 @@ Dois projetos com propostas diferentes, mas uma preocupação em comum: facilita
 ### 01 / ColoredPlans
 
 <a href="https://github.com/Maaad162/ColoredPlans">
-  <img src="https://img.shields.io/badge/CONSTRU%C3%87%C3%83O_CIVIL-F06A9C?style=flat-square&labelColor=15151D" alt="Construção civil"/>
+  <img src="https://img.shields.io/badge/CONSTRU%C3%87%C3%83O_CIVIL-4169E1?style=flat-square&labelColor=15151D" alt="Construção civil"/>
 </a>
 
 **A planta como centro da informação.**
@@ -121,7 +121,7 @@ Organiza plantas, mapas, marcações, progresso e necessidades teóricas de mate
 ### 02 / SolKanban
 
 <a href="https://github.com/Maaad162/SolKanban">
-  <img src="https://img.shields.io/badge/ORGANIZA%C3%87%C3%83O-F06A9C?style=flat-square&labelColor=15151D" alt="Organização"/>
+  <img src="https://img.shields.io/badge/ORGANIZA%C3%87%C3%83O-4169E1?style=flat-square&labelColor=15151D" alt="Organização"/>
 </a>
 
 **Solicitações organizadas, do início ao fim.**
@@ -161,7 +161,7 @@ Os indicadores abaixo são gerados a partir dos dados disponíveis no GitHub e p
 <a href="https://github.com/Maaad162">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Maaad162&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=F06A9C&text_color=E6EDF3&icon_color=F06A9C&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api?username=Maaad162&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=4169E1&text_color=E6EDF3&icon_color=4169E1&border_radius=10"
     alt="GitHub Stats de Amadeu Neto"
   />
 </a>
@@ -169,7 +169,7 @@ Os indicadores abaixo são gerados a partir dos dados disponíveis no GitHub e p
 <a href="https://github.com/Maaad162?tab=repositories">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaad162&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=F06A9C&text_color=E6EDF3&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaad162&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=4169E1&text_color=E6EDF3&border_radius=10"
     alt="Linguagens mais utilizadas"
   />
 </a>
@@ -177,7 +177,7 @@ Os indicadores abaixo são gerados a partir dos dados disponíveis no GitHub e p
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=Maaad162&hide_border=true&background=0D1117&ring=F06A9C&fire=F06A9C&currStreakLabel=F06A9C&sideNums=E6EDF3&currStreakNum=FFFFFF&sideLabels=9CA3AF&dates=9CA3AF"
+  src="https://streak-stats.demolab.com?user=Maaad162&hide_border=true&background=0D1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideNums=E6EDF3&currStreakNum=FFFFFF&sideLabels=9CA3AF&dates=9CA3AF"
   alt="Sequência de contribuições no GitHub"
 />
 
@@ -191,7 +191,7 @@ Os indicadores abaixo são gerados a partir dos dados disponíveis no GitHub e p
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Maaad162&bg_color=0D1117&color=E6EDF3&line=F06A9C&point=FFFFFF&area_color=F06A9C&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Maaad162&bg_color=0D1117&color=E6EDF3&line=4169E1&point=FFFFFF&area_color=4169E1&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub"
   alt="Gráfico de atividade no GitHub"
 />
 
@@ -276,8 +276,8 @@ Projetos, experimentos e soluções em desenvolvimento.
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:10121C,55:241629,100:862E5C&height=110&section=footer"
-  alt="Rodapé em gradiente grafite e rosa"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:10121C,55:18213A,100:4169E1&height=110&section=footer"
+  alt="Rodapé em gradiente grafite e azul royal"
 />
 
 <sub>Amadeu Neto · GitHub @Maaad162</sub>
@@ -322,7 +322,7 @@ jobs:
         with:
           github_user_name: Maaad162
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#F06A9C&color_dots=#0D1117,#352033,#75264D,#B33E70,#F06A9C
+            dist/github-contribution-grid-snake.svg?color_snake=#4169E1&color_dots=#0D1117,#17213B,#243B7A,#3454B4,#4169E1
 
       - name: Publicar SVG
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -361,7 +361,6 @@ OBSERVAÇÕES:
   não representam necessariamente o nível de domínio técnico.
 - Os links de LinkedIn e Instagram foram deixados desativados
   porque seus endereços verdadeiros não foram informados.
-- A paleta grafite e rosa foi escolhida como direção visual;
-  não representa uma preferência previamente confirmada.
+- A paleta grafite e azul royal usa a cor #4169E1 solicitada.
 ============================================================
 -->

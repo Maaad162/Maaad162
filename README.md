@@ -228,7 +228,7 @@ A imagem será exibida após a primeira execução bem-sucedida.
 
 <img
   width="100%"
-  src="https://raw.githubusercontent.com/Maaad162/Maaad162/output/github-contribution-grid-snake.svg"
+  src="https://raw.githubusercontent.com/Maaad162/Maaad162/output/github-contribution-grid-snake.svg?palette=4169e1"
   alt="Snake animado das contribuições de Amadeu Neto"
 />
 

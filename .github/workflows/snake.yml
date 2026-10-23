@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - .github/workflows/snake.yml
+      - scripts/update-profile-cards.py
 
 permissions:
   contents: write
@@ -22,12 +23,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Obter arquivos do perfil
+        uses: actions/checkout@v4
+
+      - name: Preparar gráficos do perfil
+        run: python3 scripts/update-profile-cards.py
+
       - name: Gerar animação Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#4169E1&color_dots=#0D1117,#17213B,#243B7A,#3454B4,#4169E1
+            dist/snake-royal-blue.svg?color_snake=#4169E1&color_dots=#0D1117,#17213B,#243B7A,#3454B4,#4169E1
 
       - name: Publicar SVG na branch output
         uses: crazy-max/ghaction-github-pages@v4

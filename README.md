@@ -191,7 +191,7 @@ Os indicadores abaixo são gerados a partir dos dados disponíveis no GitHub e p
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Maaad162&bg_color=0D1117&color=E6EDF3&line=4169E1&point=FFFFFF&area_color=4169E1&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub"
+  src="https://raw.githubusercontent.com/Maaad162/Maaad162/output/activity-royal-blue.svg"
   alt="Gráfico de atividade no GitHub"
 />
 
@@ -205,7 +205,7 @@ Os indicadores abaixo são gerados a partir dos dados disponíveis no GitHub e p
 
 <img
   width="100%"
-  src="https://github-profile-trophy.vercel.app/?username=Maaad162&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10"
+  src="https://raw.githubusercontent.com/Maaad162/Maaad162/output/trophies.svg"
   alt="Troféus do perfil GitHub"
 />
 
@@ -228,7 +228,7 @@ A imagem será exibida após a primeira execução bem-sucedida.
 
 <img
   width="100%"
-  src="https://raw.githubusercontent.com/Maaad162/Maaad162/output/github-contribution-grid-snake.svg?palette=4169e1"
+  src="https://raw.githubusercontent.com/Maaad162/Maaad162/output/snake-royal-blue.svg"
   alt="Snake animado das contribuições de Amadeu Neto"
 />
 

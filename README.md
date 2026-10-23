@@ -199,14 +199,14 @@ Os indicadores abaixo são gerados a partir dos dados disponíveis no GitHub e p
 
 <br/>
 
-## 06 — GitHub Trophies
+## 06 — Marcos de contribuição
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://raw.githubusercontent.com/Maaad162/Maaad162/output/trophies.svg"
-  alt="Troféus do perfil GitHub"
+  src="https://raw.githubusercontent.com/Maaad162/Maaad162/output/contribution-milestones.svg"
+  alt="Contribuições, dias ativos, melhor sequência e recorde diário no GitHub"
 />
 
 </div>
